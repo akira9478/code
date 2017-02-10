@@ -1,2 +1,2 @@
-# code
-各項雜亂的程式
+# 各項雜亂的小型程式
+Coding An Hour  
